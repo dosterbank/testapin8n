@@ -1,0 +1,121 @@
+id,producto,precio,stock_bodega,color,categoria
+1,iPhone 14,999.99,45,Negro,Teléfono
+2,Galaxy S22,899.50,32,Blanco,Teléfono
+3,PlayStation 5,499.00,15,Blanco,Consola
+4,Xbox Series X,479.99,22,Negro,Consola
+5,Nintendo Switch,299.99,67,Rojo y Azul,Consola
+6,MacBook Air,1099.00,28,Gris Espacial,Laptop
+7,Dell XPS 13,999.00,18,Plateado,Laptop
+8,HP Spectre x360,1199.00,12,Oro Rosa,Laptop
+9,Apple Watch,399.00,55,Negro,Reloj
+10,Samsung Galaxy Watch,349.00,41,Plateado,Reloj
+11,iPhone 13,799.99,62,Azul,Teléfono
+12,iPhone 15,1199.99,38,Rosa,Teléfono
+13,Galaxy S23,999.50,29,Verde,Teléfono
+14,Galaxy S24,1099.00,25,Violeta,Teléfono
+15,OnePlus 11,699.99,34,Negro,Teléfono
+16,Pixel 7,599.00,47,Blanco,Teléfono
+17,Pixel 8,699.00,31,Verde Menta,Teléfono
+18,Xiaomi 13,649.99,52,Azul,Teléfono
+19,Huawei P60,899.00,19,Dorado,Teléfono
+20,Sony Xperia 1 V,1199.99,8,Negro,Teléfono
+21,iPad Air,699.00,43,Azul Cielo,Tablet
+22,"iPad Pro 11""",899.00,26,Gris Espacial,Tablet
+23,Samsung Galaxy Tab S9,749.99,35,Beige,Tablet
+24,Microsoft Surface Pro 9,1099.99,17,Platino,Tablet
+25,Lenovo Tab P11,249.99,58,Gris,Tablet
+26,Amazon Fire HD 10,149.99,73,Negro,Tablet
+27,Apple TV 4K,179.00,64,Negro,Streaming
+28,Chromecast,29.99,127,Blanco,Streaming
+29,Roku Ultra,99.99,86,Negro,Streaming
+30,Amazon Fire Stick 4K,49.99,95,Negro,Streaming
+31,AirPods Pro,249.00,78,Blanco,Auriculares
+32,Sony WH-1000XM5,399.99,42,Negro,Auriculares
+33,Bose QuietComfort 45,329.00,37,Blanco,Auriculares
+34,JBL Charge 5,179.99,56,Azul,Altavoz
+35,Marshall Acton III,279.99,23,Negro,Altavoz
+36,"MacBook Pro 14""",1999.00,14,Gris Espacial,Laptop
+37,"MacBook Pro 16""",2499.00,9,Plateado,Laptop
+38,"iMac 24""",1299.00,21,Azul,Desktop
+39,Mac Mini,599.00,33,Plateado,Desktop
+40,Mac Studio,1999.00,7,Plateado,Desktop
+41,Surface Laptop 5,1299.99,16,Platino,Laptop
+42,ThinkPad X1 Carbon,1599.00,11,Negro,Laptop
+43,ASUS ZenBook 14,899.99,27,Azul,Laptop
+44,Acer Swift 3,649.99,39,Plateado,Laptop
+45,MSI Gaming Laptop,1499.99,13,Negro,Laptop
+46,Razer Blade 15,2199.99,6,Negro,Laptop
+47,Alienware m15,1899.99,8,Lunar Light,Laptop
+48,HP Pavilion Gaming,899.99,24,Verde Sombra,Laptop
+49,ASUS ROG Strix,1699.99,10,Negro,Laptop
+50,Logitech MX Master 3,99.99,68,Grafito,Mouse
+51,Apple Magic Mouse,79.00,54,Blanco,Mouse
+52,Razer DeathAdder V3,69.99,72,Negro,Mouse
+53,SteelSeries Rival 650,89.99,45,Negro,Mouse
+54,Corsair K95 RGB,199.99,28,Negro,Teclado
+55,Logitech G Pro X,129.99,41,Negro,Teclado
+56,Apple Magic Keyboard,179.00,36,Blanco,Teclado
+57,Razer BlackWidow V4,169.99,22,Negro,Teclado
+58,SteelSeries Apex Pro,199.99,18,Negro,Teclado
+59,ASUS ProArt Display,399.99,15,Negro,Monitor
+60,"LG UltraWide 34""",599.99,19,Negro,Monitor
+61,Samsung Odyssey G7,699.99,12,Blanco,Monitor
+62,"Dell UltraSharp 27""",449.99,25,Negro,Monitor
+63,HP E27,199.99,48,Negro,Monitor
+64,BenQ PD3220U,1099.99,8,Negro,Monitor
+65,ASUS TUF Gaming VG27AQ,329.99,31,Negro,Monitor
+66,Acer Predator X27,1799.99,4,Negro,Monitor
+67,ViewSonic VP2468,249.99,37,Negro,Monitor
+68,Canon EOS R6,2499.99,11,Negro,Cámara
+69,Nikon D850,2999.99,7,Negro,Cámara
+70,Sony A7 IV,2499.99,9,Negro,Cámara
+71,Fujifilm X-T5,1699.99,13,Negro,Cámara
+72,Olympus OM-1,2199.99,6,Negro,Cámara
+73,GoPro Hero 12,399.99,42,Negro,Cámara
+74,DJI Mini 3,759.99,18,Gris,Drone
+75,DJI Air 2S,999.99,12,Gris,Drone
+76,Nintendo Switch OLED,349.99,51,Blanco,Consola
+77,Steam Deck,399.99,23,Negro,Consola
+78,ASUS ROG Ally,699.99,16,Blanco,Consola
+79,Meta Quest 3,499.99,29,Blanco,VR
+80,PICO 4,429.99,21,Blanco,VR
+81,HTC Vive Pro 2,799.99,8,Negro,VR
+82,PlayStation Portal,199.99,34,Blanco,Accesorio Gaming
+83,Xbox Elite Controller,179.99,26,Negro,Accesorio Gaming
+84,DualSense Controller,69.99,67,Blanco,Accesorio Gaming
+85,Nintendo Pro Controller,69.99,45,Negro,Accesorio Gaming
+86,Razer Wolverine V2,149.99,19,Negro,Accesorio Gaming
+87,Logitech G Cloud,349.99,15,Blanco,Consola
+88,"Samsung 75"" QLED TV",1999.99,8,Negro,TV
+89,"LG 65"" OLED TV",1799.99,12,Negro,TV
+90,"Sony 55"" Bravia XR",1299.99,16,Negro,TV
+91,"TCL 50"" 4K TV",399.99,28,Negro,TV
+92,"Hisense 43"" Smart TV",299.99,35,Negro,TV
+93,Samsung Soundbar Q990B,1699.99,9,Negro,Soundbar
+94,Sonos Arc,899.99,17,Blanco,Soundbar
+95,JBL Bar 9.1,799.99,14,Negro,Soundbar
+96,Bose Smart Soundbar 900,899.99,11,Negro,Soundbar
+97,Yamaha YAS-209,349.99,23,Negro,Soundbar
+98,Ring Video Doorbell 4,199.99,46,Bronce,Smart Home
+99,Nest Hub Max,229.99,31,Carbón,Smart Home
+100,Amazon Echo Show 15,249.99,27,Blanco,Smart Home
+101,Philips Hue Starter Kit,199.99,38,Blanco,Smart Home
+102,TP-Link Archer AX73,199.99,29,Negro,Router
+103,Netgear Nighthawk AX12,449.99,15,Negro,Router
+104,ASUS AX6000,349.99,18,Negro,Router
+105,Linksys Velop MX4200,399.99,12,Blanco,Router
+106,Eero Pro 6E,299.99,25,Blanco,Router
+107,UniFi Dream Machine,379.99,14,Blanco,Router
+108,Synology DS220+,299.99,19,Negro,NAS
+109,QNAP TS-464,449.99,11,Blanco,NAS
+110,WD My Cloud Home,179.99,33,Blanco,NAS
+111,Seagate IronWolf 4TB,119.99,52,Plateado,Disco Duro
+112,WD Black SN850X 1TB,129.99,41,Negro,SSD
+113,Samsung 980 PRO 2TB,199.99,35,Verde,SSD
+114,Crucial MX4 1TB,89.99,47,Azul,SSD
+115,Kingston NV2 500GB,39.99,68,Negro,SSD
+116,Corsair MP600 PRO 1TB,149.99,28,Negro,SSD
+117,NVIDIA RTX 4090,1599.99,6,Negro,Tarjeta Gráfica
+118,AMD RX 7900 XTX,999.99,9,Negro,Tarjeta Gráfica
+119,NVIDIA RTX 4070,599.99,18,Negro,Tarjeta Gráfica
+120,AMD RX 6700 XT,449.99,22,Negro,Tarjeta Gráfica
